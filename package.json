@@ -1,0 +1,22 @@
+{
+  "name": "protractor-new-hope",
+  "version": "1.0.0",
+  "description": "Sample Project with Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manokugan/Protractor-Cucumber-Example.git"
+  },
+  "author": "Manoujitha",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^4.2.1",
+    "protractor": "^5.3.1",
+    "protractor-cucumber-framework": "^5.0.0"
+  }
+}
